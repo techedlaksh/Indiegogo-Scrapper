@@ -1,0 +1,202 @@
+[
+  {
+    "url": "/questions/37238067/using-golang-with-mongodb-how-do-you-do-a-nearsphere-search-without-the-coordin",
+    "title": "Using golang with mongodb how do you do a $nearSphere search without the coordinates as an index"
+  },
+  {
+    "url": "/questions/37238065/how-to-get-improved-smartcase-in-vim",
+    "title": "How to get improved smartcase in Vim?"
+  },
+  {
+    "url": "/questions/37238063/using-asp-net-identity-with-a-load-balancer",
+    "title": "Using ASP.NET Identity with a load balancer"
+  },
+  {
+    "url": "/questions/37238061/image-overlay-margin-top-does-not-show-correctly-with-differing-image-heights",
+    "title": "Image Overlay “margin-top” does not show correctly with differing image heights"
+  },
+  {
+    "url": "/questions/37238060/php-mysqli-statement-error",
+    "title": "php mysqli statement error"
+  },
+  {
+    "url": "/questions/37238059/hbase-execute-small-job-using-cluster",
+    "title": "HBase: execute small job using cluster"
+  },
+  {
+    "url": "/questions/37238058/purpose-of-virtual-in-dbset",
+    "title": "Purpose of Virtual in DbSet"
+  },
+  {
+    "url": "/questions/37238057/queryselectorall-how-to-take-only-elements-with-all-attributes",
+    "title": ".querySelectorAll how to take only elements with all attributes"
+  },
+  {
+    "url": "/questions/37238056/not-able-to-edit-jtable-cell",
+    "title": "Not able to edit JTable cell"
+  },
+  {
+    "url": "/questions/37238049/rsync-dry-run-not-showing-correct-sent-bytes",
+    "title": "Rsync --dry-run not showing correct sent bytes"
+  },
+  {
+    "url": "/questions/37238048/passing-data-to-torch-classes-in-lua",
+    "title": "passing data to torch.class(es) in lua"
+  },
+  {
+    "url": "/questions/37238046/regular-expression-to-find-a-block-of-text",
+    "title": "Regular expression to find a block of text"
+  },
+  {
+    "url": "/questions/37238044/how-to-disable-editing-uitableviewcontroller-in-popover",
+    "title": "How to disable editing UITableViewController in Popover"
+  },
+  {
+    "url": "/questions/37238040/python-parsing-a-string-that-looks-like-json-to-a-json",
+    "title": "Python: Parsing a string that looks like JSON to a JSON"
+  },
+  {
+    "url": "/questions/37238038/blktrace-output-error-in-docker-conntainer",
+    "title": "blktrace output error in docker conntainer"
+  },
+  {
+    "url": "/questions/37238035/match-specific-not-between-tags",
+    "title": "Match specific not between tags"
+  },
+  {
+    "url": "/questions/37238032/how-to-check-for-letter-occurrences-in-a-string",
+    "title": "How to check for letter occurrences in a string?"
+  },
+  {
+    "url": "/questions/37238030/require-from-another-node-modules",
+    "title": "require from another node_modules"
+  },
+  {
+    "url": "/questions/37238027/testcomplete-control-is-not-visible-on-screen",
+    "title": "TestComplete: control is not visible on screen"
+  },
+  {
+    "url": "/questions/37238026/android-studio-2-1-1-presents-no-target-device-although-adb-devices-comman",
+    "title": "Android Studio (2.1.1) presents “no target device” although 'adb devices' command finds the device"
+  },
+  {
+    "url": "/questions/37238025/rescue-in-transmit-ssl-connect-returned-1-errno-0-state-error-certificate-ve",
+    "title": "`rescue in transmit': SSL_connect returned=1 errno=0 state=error: certificate verify failed (RestClient::SSLCertificateNotVerified)"
+  },
+  {
+    "url": "/questions/37238023/call-function-when-view-is-fully-updated-in-angular2",
+    "title": "Call function when view is fully updated in Angular2"
+  },
+  {
+    "url": "/questions/37238020/python2-7-print-values-in-list",
+    "title": "python2.7 print values in list"
+  },
+  {
+    "url": "/questions/37238019/mysql-query-select-rows-group-by",
+    "title": "mysql query select rows group by"
+  },
+  {
+    "url": "/questions/37238018/disable-z-buffering-is-not-working-using-directxtk",
+    "title": "disable z buffering is not working using directxtk"
+  },
+  {
+    "url": "/questions/37238015/auth0-sourceurl-sourcemappingurl-deprecated-not-staying-logged-in",
+    "title": "Auth0 (sourceURL/ sourceMappingURL deprecated) - Not staying logged in"
+  },
+  {
+    "url": "/questions/37238014/complaint-from-pydev-for-seemingly-correct-code",
+    "title": "Complaint from pydev for seemingly correct code"
+  },
+  {
+    "url": "/questions/37238012/adding-info-windows-to-multiple-map-markers-using-json",
+    "title": "Adding Info windows to multiple map markers using JSON"
+  },
+  {
+    "url": "/questions/37238010/factory-method-with-abstract-classes",
+    "title": "Factory method with abstract classes"
+  },
+  {
+    "url": "/questions/37238009/ios-xcode7-how-to-show-more-infomation-from-annotation-subtitle",
+    "title": "ios,xcode7: how to show more infomation from annotation subtitle?"
+  },
+  {
+    "url": "/questions/37238008/simple-spring-webmvc-maven-project",
+    "title": "Simple spring webmvc maven project"
+  },
+  {
+    "url": "/questions/37238007/sending-mail-via-qt-creator",
+    "title": "Sending mail via QT creator"
+  },
+  {
+    "url": "/questions/37238005/wait-for-multiple-volley-responses-in-a-for-loop",
+    "title": "wait for multiple volley responses in a for loop"
+  },
+  {
+    "url": "/questions/37238003/ckeditor-cannot-load-on-active-admin-in-rails-4",
+    "title": "Ckeditor cannot load on active admin in Rails 4"
+  },
+  {
+    "url": "/questions/37238002/djangopython-attributeerror-nonetype-object-has-no-attribute-split",
+    "title": "Django(Python) AttributeError: 'NoneType' object has no attribute 'split'"
+  },
+  {
+    "url": "/questions/37237998/center-p-vertically-in-flex-item",
+    "title": "Center p vertically in flex item"
+  },
+  {
+    "url": "/questions/37237996/mpi-load-balancing-algorithm-master-slave-model",
+    "title": "MPI: load balancing algorithm (Master-Slave model)"
+  },
+  {
+    "url": "/questions/37237995/android-studio-2-cannot-resolve-symbol-gms-cannot-import-google-play-service",
+    "title": "Android studio 2: Cannot resolve symbol 'gms'. Cannot import Google Play Services"
+  },
+  {
+    "url": "/questions/37237994/search-from-two-fields-in-db-mc-access",
+    "title": "Search from two fields in DB Mc access"
+  },
+  {
+    "url": "/questions/37237992/codeception-redirects-to-login-for-all-requests",
+    "title": "Codeception redirects to login for all requests"
+  },
+  {
+    "url": "/questions/37237989/gradle-failed-to-build-when-proguard-is-activatedd",
+    "title": "Gradle failed to build when proguard is activatedd"
+  },
+  {
+    "url": "/questions/37237988/occurrence-and-combination-of-word-in-java",
+    "title": "Occurrence and combination of word in Java"
+  },
+  {
+    "url": "/questions/37237982/how-can-i-save-c-class-data-in-text-file",
+    "title": "How can I save C++ class data in text file"
+  },
+  {
+    "url": "/questions/37237980/ios-delegate-not-working-in-objetive-c-uiview-subclass",
+    "title": "IOS Delegate Not Working in Objetive c UIView subclass"
+  },
+  {
+    "url": "/questions/37237979/unity3d-time-deltatime-and-framerate-issue",
+    "title": "Unity3d Time.deltatime and framerate issue"
+  },
+  {
+    "url": "/questions/37237978/qt-qdatastream-operator-for-quint16-i-didnt-get-it-at-all",
+    "title": "Qt QDataStream: operator>> for quint16 - I didn't get it at all"
+  },
+  {
+    "url": "/questions/37237977/itext-jcheckbox-to-pdf-doesnt-display-correctly-the-first-time-i-create-report",
+    "title": "iText jCheckBox to PDF doesn't display correctly the first time I create report"
+  },
+  {
+    "url": "/questions/37237974/c-sharp-moving-a-cross-into-a-picturebox-based-on-the-thumbstick-position",
+    "title": "C# Moving a cross into a picturebox based on the Thumbstick Position"
+  },
+  {
+    "url": "/questions/37237972/appcmd-from-bash-script-replacing-backslashes-with-forward-slashes-how-to-preve",
+    "title": "Appcmd from Bash script replacing backslashes with forward slashes, how to prevent?"
+  },
+  {
+    "url": "/questions/37237969/why-we-care-about-lp-spaces",
+    "title": "Why we care about Lp spaces?"
+  }
+]

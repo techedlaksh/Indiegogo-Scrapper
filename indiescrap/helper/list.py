@@ -1,0 +1,36 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat May 08 01:49:39 2016
+
+@author: Laksh
+@handle: techedlaksh
+@website: www.laksharora.com
+"""
+
+'''
+Categories:
+	ANIMALS
+	ART
+	COMIC
+	COMMUNITY
+	DANCE
+	DESIGN
+	EDUCATION
+	ENVIRONMENT
+	FASHION
+	FILM
+	FOOD
+	GAMING
+	HEALTH
+	MUSIC
+	PHOTOGRAPHY
+	POLITICS
+	RELIGION
+	SMALL BUSINESS
+	SPORTS
+	TECHONOLOGY
+	THEATER
+	TRANSMEDIA
+	VIDEO/WEB
+	WRITING
+'''
